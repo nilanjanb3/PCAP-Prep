@@ -20,7 +20,15 @@ This repo contains a slightly advanced level python programming contents and PCA
     * [04-String methods](https://www.geeksforgeeks.org/python-string-methods/)
     * [05-Built in functions](https://docs.python.org/3/library/functions.html)
     * [06-sort() vs sorted()](https://www.geeksforgeeks.org/python-difference-between-sorted-and-sort/)
-    * []()
+* 03-Exceptions
+    * [01-Exception Handling in Python](https://www.geeksforgeeks.org/python-exception-handling/?ref=lbp)
+    * [02-Error & Exception Pydocs](https://docs.python.org/3/tutorial/errors.html)
+    * [03-User defined exception](https://www.geeksforgeeks.org/user-defined-exceptions-python-examples/)
+    * [04-Raise keyword](https://www.geeksforgeeks.org/python-raise-keyword/)
+    * [05-assert in python](https://www.geeksforgeeks.org/python-assert-keyword/)
+    * [06-Exception Hierarchy in Python](https://martinxpn.medium.com/exception-hierarchy-python-58-100-days-of-python-9d8585e6569b)
+* 04-OOPS
+    * [01-]()
     * []()
     * []()
     * []()
