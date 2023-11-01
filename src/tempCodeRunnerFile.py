@@ -1,2 +1,3 @@
-)
-print(b.add(1,2,3,
+(os.getcwd()) # current working directory
+# res = os.system("pwd")
+# prin
